@@ -1,4 +1,3 @@
-@@ -0,0 +1,26 @@
 # Matriz de inventario: [Código, Nombre, Stock Actual, Stock Mínimo]
 inventario = [
     [101, "Laptop", 5, 10],
